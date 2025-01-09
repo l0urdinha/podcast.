@@ -15,4 +15,4 @@
 - Monica Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+
