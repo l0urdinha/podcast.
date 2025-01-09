@@ -3,8 +3,8 @@
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://copilot.microsoft.com/chats/izEsRU6orMhBNxNbK8YAj) 
+- [MonicaArte](https://monica.im/pt_BR/image-tools/ai-illustration-generator)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
